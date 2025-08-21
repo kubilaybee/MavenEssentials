@@ -6,13 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="spring-essentials" />
         <module name="maven-essentials" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="maven-essantials" target="21" />
       <module name="spring" target="21" />
+      <module name="spring-essentials" target="21" />
       <module name="spring-essentials (1)" target="21" />
       <module name="spring-essentials (2)" target="21" />
     </bytecodeTargetLevel>

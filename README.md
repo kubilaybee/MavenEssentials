@@ -128,7 +128,7 @@ Maven uses a set of standard lifecycle stages to manage tasks such as compiling,
 
 This revised document will provide a more complete and informative resource for your readers by compiling Maven's core mechanisms and important terms for practical use.  
 
----
+
 
 ### Commonly Used Maven Commands
 
